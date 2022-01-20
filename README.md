@@ -12,7 +12,6 @@ The Lego-Based Setup
 
 
 ## What is it?
----
 
 Experimenting with your own LEGO-Based Setup is fun and easy! 🎉
 
@@ -22,7 +21,6 @@ Instead of building huge setups every time you need to test new boards, motors, 
 
 
 ## General rules
----
 
 In this repository we can store only the following files:
 
@@ -31,7 +29,6 @@ In this repository we can store only the following files:
 
 
 ## PTC Creo version
----
 
 Currently we work with PTC Creo 7.
 
