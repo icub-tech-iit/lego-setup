@@ -5,8 +5,9 @@ The Lego-Based Setup
 <kbd>
   <img src="assets/lego-setup.png"
    alt="The LEGO-Based Setup.">
-  <figcaption>Figure 1 - A LEGO-based setup using an AMC_BLDC board and J-Trace to drive a BLDC motor debugger.</figcaption>
 </kbd>
+  <figcaption>Figure 1 - A LEGO-based setup using an AMC_BLDC board and J-Trace to drive a BLDC motor debugger.</figcaption>
+
 
 
 
