@@ -13,7 +13,7 @@ The Lego-Based Setup
 
 ## What is it?
 
-Experimenting with your own LEGO-Based Setup is fun and easy! 🎉
+Experimenting with your own LEGO-Based Setup is funny and easy! 🎉
 
 The LEGO-based setup has the advantage that you can assemble different types of components at will within the board base.
 
