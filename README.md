@@ -30,7 +30,7 @@ In this repository we can store only the following files:
 
 ## PTC Creo version
 
-Currently we work with PTC Creo 7.
+Currently we work with PTC Creo 9.
 
 **Note:**
 
